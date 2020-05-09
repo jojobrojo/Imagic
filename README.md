@@ -1,0 +1,2 @@
+# Imagic
+Fantasy rpg
